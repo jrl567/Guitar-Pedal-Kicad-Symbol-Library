@@ -1246,7 +1246,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Capacitor_(NP)"
+		(property "Value" "${SIM.PARAMS}"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -1274,6 +1274,42 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "C"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" "="
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Params" "c=Capacitor_(NP)"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
 			(at 0 0 0)
 			(effects
 				(font
