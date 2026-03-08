@@ -2610,7 +2610,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Hello"
 			(at 0 0 0)
 			(effects
 				(font
