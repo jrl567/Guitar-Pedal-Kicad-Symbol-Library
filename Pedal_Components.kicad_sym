@@ -290,7 +290,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "3PDT Footswitch symbol"
 			(at 0 0 0)
 			(effects
 				(font
