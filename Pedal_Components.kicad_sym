@@ -1327,7 +1327,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "Capacitor"
 			(at 0.635 -2.54 0)
 			(effects
 				(font
@@ -1381,7 +1381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "c=Capacitor_(NP)"
+		(property "Sim.Params" "c=${VALUE}"
 			(at 0 0 0)
 			(effects
 				(font
