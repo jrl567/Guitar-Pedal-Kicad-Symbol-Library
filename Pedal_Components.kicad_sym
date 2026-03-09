@@ -3201,7 +3201,7 @@
 				)
 			)
 		)
-		(property "Value" "${SIM.PARAMS}"
+		(property "Value" "Resistor"
 			(at -2.54 0 90)
 			(effects
 				(font
@@ -3254,7 +3254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Params" "r=Resistor"
+		(property "Sim.Params" "r=${VALUE}"
 			(at 0 0 0)
 			(effects
 				(font
